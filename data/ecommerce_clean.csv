@@ -1,0 +1,16 @@
+OrderID,Region,Category,CustomerSegment,Sales,Profit,Returned
+1001,South,Electronics,Consumer,12000,2500,No
+1002,North,Furniture,Corporate,8000,1200,No
+1003,West,Electronics,Consumer,15000,3200,Yes
+1004,East,Clothing,Home Office,5000,900,No
+1005,South,Furniture,Consumer,7000,1000,No
+1006,North,Clothing,Corporate,6000,1100,Yes
+1007,West,Electronics,Home Office,18000,4000,No
+1008,East,Furniture,Consumer,9000,1300,No
+1009,South,Clothing,Consumer,5500,950,No
+1010,North,Electronics,Corporate,16000,3500,Yes
+1011,West,Furniture,Consumer,8500,1400,No
+1012,East,Electronics,Home Office,14000,3000,No
+1013,South,Furniture,Corporate,7500,1200,No
+1014,North,Clothing,Consumer,6500,1000,No
+1015,West,Electronics,Consumer,17000,3800,No
